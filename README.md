@@ -1,2 +1,2 @@
-# Ora-blogging-platform
+# Ora-A blogging-platform
 Ora allow users to create, organize, and publish written content in a blog.
